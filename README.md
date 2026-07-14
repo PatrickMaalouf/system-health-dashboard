@@ -34,7 +34,7 @@ Operations and engineering leadership lacked a single, at-a-glance view of platf
 
 ---
 
-📊 **Live dashboard:** `streamlit run app.py`
+📊 **Live dashboard:** [system-health-dashboard.streamlit.app](https://system-health-dashboard-xbxr5rrwjwtmxb4c5xk3ck.streamlit.app/) · or run locally with `streamlit run app.py`
 
 📄 **Monthly health report:** [docs/monthly_health_report.md](docs/monthly_health_report.md)
 
